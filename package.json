@@ -1,5 +1,5 @@
 {
-  "name": "react-virtualized-select",
+  "name": "@everymundo/em-react-virtualized-select",
   "version": "3.1.0",
   "description": "Drop-down menu for React with windowing to support large numbers of options.",
   "main": "dist/commonjs/index.js",
@@ -108,7 +108,7 @@
     "react-select": "^1.0.0-rc.2",
     "react-transform-catch-errors": "^1.0.2",
     "react-transform-hmr": "^1.0.2",
-    "react-virtualized": "^9.0.0",
+    "react-virtualized": "9.0.0",
     "redbox-react": "^1.0.1",
     "rimraf": "^2.4.3",
     "standard": "^5.4.1",
@@ -122,7 +122,7 @@
     "babel-runtime": "^6.11.6",
     "prop-types": "^15.5.8",
     "react-select": "^1.0.0-rc.2",
-    "react-virtualized": "^9.0.0"
+    "react-virtualized": "9.0.0"
   },
   "peerDependencies": {
     "react": "^15.3.0 || ^16.0.0-alpha",
